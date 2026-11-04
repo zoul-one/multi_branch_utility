@@ -1,5 +1,5 @@
 [project]
-name = "multi_company_enquiry"
+name = "multi_branch_utility"
 authors = [
     { name = "sales@zoul.one", email = "sales@zoul.one"}
 ]
